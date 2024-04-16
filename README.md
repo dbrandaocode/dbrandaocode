@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a self project which is a Football Management Software in PHP/HTML+CSS/JAVASCRIPT/PYTHON for future Comercialization**
 
-- 🌱 I’m currently learning **Python, Java, and other languages which are apart of my masters degree**
+- 🌱 I’m currently learning **Python, Java, PHP and other languages which are apart of my masters degree**
 
-- ⚡ Fun fact **Federated Chess Player. Music, Politics, Sports Enthusiast**
+- ⚡ Fun fact ** Music, Politics, Sports Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
